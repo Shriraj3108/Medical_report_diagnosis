@@ -78,18 +78,6 @@ This is the **FastAPI-based backend** for the **Medical Diagnosis Application**,
 ├── requirements.txt
 └── .gitignore
 
-```
-
----
-
-## ⚙️ Setup Instructions (Local)
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/snsupratim/MedicalReportDiagnosis.git
-cd MedicalReportDiagnosis
-```
 
 ### 2️⃣ Create Virtual Environment
 
